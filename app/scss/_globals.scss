@@ -15,7 +15,7 @@ body {
   font-family: 'Public Sans', sans-serif;
   font-size: $font-med;
   font-weight: 300;
-  min-height: 300vh;
+  overflow-x: hidden;
 
   @include breakpoint-up(large) {
     font-size: $font-med;
@@ -37,6 +37,7 @@ h1 {
   margin-bottom: 1.5rem;
   font-size: 2.3125rem;
 
+
   @include breakpoint-up(large) { 
     font-size: $font-xlg; 
   }
@@ -47,8 +48,8 @@ h2 {
   margin-bottom: 1.5625rem;
 
   @include breakpoint-up(large) {
-    font-size: 2.25rem;
-    margin-bottom: 2.25rem;
+    font-size: 2.4375rem;
+    margin-bottom: 1.75rem;
   }
 }
 

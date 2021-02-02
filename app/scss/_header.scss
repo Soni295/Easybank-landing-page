@@ -1,6 +1,7 @@
 .header {
   position: relative;
   z-index: 1;
+
   // Hamburger Open Style
   &.open {
 
@@ -44,6 +45,7 @@
   }
 
   &__toggle{
+
     > span {
       display: block;
       width: 26px;
@@ -77,6 +79,7 @@
   }
 
   &__links {
+
     a {
       position: relative;
       font-size: $font-sm;
@@ -102,6 +105,7 @@
 
       &:hover {
         color: $darkBlue;
+
         &::before {
           opacity: 1;
         } 
