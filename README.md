@@ -6,15 +6,8 @@
 ## Vistas
 ---
 
-!["Escritorio Parte 1"][1]
-!["Escritorio Parte 2"][2]
-!["Escritorio Parte 3"][3]
-!["Telefono Parte 1"][4]
-!["Telefono Parte 2"][5]
-
-
-[1]: ./Muestra/Escritorio.png 
-[2]: ./Muestra/Escritorio2.png 
-[3]: ./Muestra/Escritorio3.png 
-[4]: ./Muestra/Telefono.png
-[5]: ./Muestra/Telefono2.png 
+<img src="Muestra/Escritorio.png" width="200">
+<img src="Muestra/Escritorio2.png" width="200">
+<img src="Muestra/Escritorio3.png" width="200">
+<img src="Muestra/Telefono.png" width="500">
+<img src="Muestra/Telefono2.png" width="500">
