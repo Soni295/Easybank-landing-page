@@ -6,8 +6,11 @@
 ## Vistas
 ---
 
-<img src="Muestra/Escritorio.png" width="500">
-<img src="Muestra/Escritorio2.png" width="500">
-<img src="Muestra/Escritorio3.png" width="500">
-<img src="Muestra/Telefono.png" width="200">
-<img src="Muestra/Telefono2.png" width="200">
+<div>
+  <img src="Muestra/Escritorio.png" width="800">
+  <img src="Muestra/Escritorio3.png" width="800">
+</div>
+<div>
+  <img src="Muestra/Telefono.png" width="200">
+  <img src="Muestra/Telefono2.png" width="200">
+</div>
