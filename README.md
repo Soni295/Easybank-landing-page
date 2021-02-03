@@ -17,4 +17,4 @@
 [2]: ./Muestra/Escritorio2.png 
 [3]: ./Muestra/Escritorio3.png 
 [4]: ./Muestra/Telefono.png
-[5]: ./Muestra/Telefono1.png 
+[5]: ./Muestra/Telefono2.png 
